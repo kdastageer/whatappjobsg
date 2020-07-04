@@ -1,0 +1,44 @@
+body {
+  background: #fff;
+  font-family:'Roboto', Arial, sans-serif;
+  color:#333;
+  line-height:1.6em;
+  overflow-x:hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight:500; 
+    font-family:'Roboto';
+	color:#000;
+}
+
+h1{
+  font-size: 36px;
+  color:#fff;
+}
+
+h2{
+  font-size:20px;
+}
+
+h3{
+  font-size: 16px;
+  color: #787878;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+h4{
+  font-size: 16px;
+}
+
+
+hr {
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #fff;
+}
